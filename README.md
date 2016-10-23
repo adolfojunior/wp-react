@@ -9,8 +9,8 @@
 
 ## development
 
-`npm run dev` Start a Express server and route files to webpack-dev-middleware/webpack-hot-middleware.
+`npm run dev` Start a Express server and route files to `webpack-dev-middleware/webpack-hot-middleware`.
 
 ## production
 
-`npm start` Start a Express server that host static files on dist folder.
+`npm start` Start a Express server that host static files from `dist` folder.
