@@ -7,10 +7,10 @@
 
 `npm run build` Creates the dist folder with client/server transpilated code.
 
-## production
-
-`npm start` Start a Express server that host static files on dist folder.
-
 ## development
 
 `npm run dev` Start a Express server and route files to webpack-dev-middleware/webpack-hot-middleware.
+
+## production
+
+`npm start` Start a Express server that host static files on dist folder.
