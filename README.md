@@ -1,5 +1,5 @@
 
-# WP-React SPA
+# WP-React
 
 `npm install` Install dependencies and run a build too.
 
